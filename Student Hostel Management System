@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-27T19:05:08.487Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="n0cQbD4Ky7Plz9Oo9D29" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-27T19:08:06.468Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="Il5sHzpKVDQUE1BhmVR0" version="14.6.6" type="github">
   <diagram id="HWbouRlIUmqOLizQUEtt" name="Page-1">
-    <mxGraphModel dx="2071" dy="2945" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1888" dy="2833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -127,7 +127,7 @@
         <mxCell id="rT7GS3BCSucUmITPCGf3-34" value="Student" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="100" y="-730" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rT7GS3BCSucUmITPCGf3-35" value="Staf" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="rT7GS3BCSucUmITPCGf3-35" value="Staff" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="-290" y="-1010" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rT7GS3BCSucUmITPCGf3-36" value="Has" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
